@@ -30,6 +30,7 @@ The dataset and the trained models are available for download from the following
 - [Dataset Folder](https://drive.google.com/drive/folders/1ZZpPimYgyFNFEotl3JxxejTh8bASThbu?usp=sharing)
 - [Trained Models Folder of U-NET](https://drive.google.com/drive/folders/1soZX5wiIkcyEj2dpMduHY3BwmQVvcSe2?usp=sharing)
 - [Trained Models Folder of DeepLabV3](https://drive.google.com/drive/folders/1oqcD02UHB6j083juN-BpstMJn8BaTAty?usp=sharing)
+- [Augmented dataset](https://drive.google.com/drive/folders/1zfBU3L-9n2nroGpnqFJYLWls1wPjPlpa?usp=sharing)
 
 
 ## Model Performance Tables
