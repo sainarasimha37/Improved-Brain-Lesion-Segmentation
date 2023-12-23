@@ -14,7 +14,6 @@ The dataset is used to train and validate the models, providing a comprehensive 
 
 ## File Formats
 - .nii (Neuroimaging Informatics Technology Initiative): Used for storing MRI data.
-- .mha (MetaImage): Utilized for storing high-dimensional raster data in medical imaging.
 
 ## Research Findings
 The U-Net model is more suitable for ischemic stroke lesion segmentation tasks with higher accuracy and sensitivity, making it a promising tool for medical diagnostics and research.
@@ -25,7 +24,6 @@ The research opens pathways for further optimization of U-Net and integration in
 ## Repository Contents
 - /UNet: Contains the U-Net  model code and architecture.
 - /DeepLabV3: Contains the DeepLabV3 model code and architecture.
-- /results: Contains tables and graphs depicting the models' performance.
 
 ## Accessing the Dataset and Models:
 The dataset and the trained models are available for download from the following Google Drive location:
